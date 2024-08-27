@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Mikey Reisenberg interviewed by Patrick Mullaney, 2021 March 19" ] },
+    "summary": { "en": [ "Mikey Reisenberg interviewed by Patrick Mullaney, 2021 March 19" ] },
+    "items": [
+    ]
+}
